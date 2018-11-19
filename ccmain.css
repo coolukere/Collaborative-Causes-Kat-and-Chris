@@ -1,0 +1,42 @@
+body {
+    background-color:black;
+  }    
+  
+  .content {
+    max-width: 1020px;
+    margin: auto;
+    background:black;
+    padding: 100px;
+  }
+  
+  .header {
+    background-color:black;
+    background-repeat: no-repeat;
+    position:sticky;
+    width:100%;
+    color:white;
+    height: 200px;
+    display: flex;
+    float:center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+ 
+  footer {
+    font-family: Oswald', sans-serif;
+    letter-spacing: 2px;
+    text-transform:uppercase;
+    background-color:black;
+    background-repeat: no-repeat;
+    position:sticky;
+    width:100%;
+    color:black;
+    height: 200px;
+    display: flex;
+    float:center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
