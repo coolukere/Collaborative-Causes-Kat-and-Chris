@@ -21,6 +21,27 @@ body {
     justify-content: center;
     align-items: center;
   }
+
+ .container {
+    max-width: 1020px;
+    margin: auto;
+    background:black;
+    padding: 100px;
+  }
+
+  .nav {
+      
+  }
+
+  .gallery {
+
+  }
+
+  .links {
+
+  }
+  
+
   
  
   footer {
